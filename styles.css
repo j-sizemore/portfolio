@@ -2,4 +2,10 @@ body {
     background-color: #222;
     color: #f08c00;
     font-family: monospace;
+    margin: auto;
+}
+
+.border {
+    border: 5px solid #f08c00;
+    border-radius: 2px;
 }
